@@ -5,7 +5,7 @@
     "@heroku/socksv5": "0.0.9",
     "esm": "^3.0.84",
     "fs-extra": "^7.0.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jsdom": "^13.0.0",
     "node-fetch": "^2.3.0",
     "opn": "^5.4.0",
